@@ -35,6 +35,6 @@ I rarely use:<br>
 ## Socials:
 [![Telegram](https://img.shields.io/badge/telegram-%23007ACC.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MarselShakirov)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/P2GD3PKDUAJCL1)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imanager666@gamail.com??subject=Hello%20Marsel%2C%20From%20Github)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imanager666@gamail.com?subject=Hello%20Marsel%2C%20From%20Github)
 
 
