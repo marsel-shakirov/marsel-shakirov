@@ -2,8 +2,7 @@
 
 A Frontend Developer with a deep passion for creating clear, high-performance, and visually appealing interfaces. My career in the web world began with a curiosity about how pages stayed in the browser, and quickly grew into a full-time job where I strive for excellence every day.
 
-- ⚡️ My goal is not just to write working code, but to create a product that will delight users with its speed, convenience and beauty.
-- 💡 Outside of work, I enjoy experimenting with new features, reading blogs about the latest frontend trends, and occasionally working on pet projects to honor my skills and explore new things.
+⚡️ My goal is not just to write working code, but to create a product that will delight users with its speed, convenience and beauty.
 
 ## My skills include:
 
